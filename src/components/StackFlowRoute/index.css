@@ -1,0 +1,247 @@
+.bg-container {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.options-container {
+  width: 25%;
+}
+
+.search-container {
+  width: 50%;
+  box-shadow: 8px 8px 8px 8px #e4e6eb;
+  height: 150%;
+}
+
+.ul-container {
+  list-style-type: none;
+  font-family: 'Roboto';
+  margin-top: 20px;
+}
+
+.questiions-container {
+  margin: 10px;
+}
+
+.fa-icon {
+  color: orange;
+  margin-left: 20px;
+}
+
+.que-element {
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.li-element {
+  margin-bottom: 10px;
+}
+
+.search-element-container {
+  margin: 10px;
+}
+
+.ham-burge-icon {
+  margin-left: 10px;
+}
+
+.input-element {
+  height: 40px;
+  width: 300px;
+  border: none;
+  outline: none;
+  margin-left: 10px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #2e2f30;
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.ul-tab-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.tabs {
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 50px;
+  align-items: center;
+}
+
+.active-tab {
+  background-color: orange;
+  color: #ffffff;
+}
+
+.tab-information-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ul-heading {
+  color: #5d96cf;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.tabs-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.information-tabs {
+  margin: 10px;
+  border: 1px solid #2e2f30;
+  padding: 5px;
+  border-radius: 20px;
+  padding-left: 5px;
+  font-size: 15px;
+}
+.fa-edit-icon {
+  color: orange;
+  margin-right: 5px;
+}
+.head-line {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #2e2f30;
+}
+
+.ul-votes-container {
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  justify-content: space-between;
+  padding: 10px;
+  list-style-type: none;
+}
+
+.list-li-element {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.active-answer-container {
+  box-shadow: 8px 8px 8px 8px #e4e6eb;
+  padding: 10px;
+}
+
+.active {
+  color: green;
+}
+
+.container {
+  width: 60%;
+}
+
+.image-element {
+  height: 70px;
+  width: 70px;
+  border-radius: 40px;
+}
+
+.jobs-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.profile-pic-container {
+  margin-left: 150px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.globe {
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.element {
+  margin-left: 20px;
+  margin-top: 50px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #2e2f30;
+}
+
+.work-type {
+  margin-left: 20px;
+}
+
+.tecnologies {
+  border: 1px solid #2e2f30;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+
+.location-container {
+  margin-bottom: 10px;
+}
+
+.jobs-details-container {
+  border-left: 1px solid #2e2f30;
+}
+
+.button {
+  margin-left: 100px;
+  margin-top: 10px;
+  font-family: 'Roboto';
+  height: 40px;
+  background-color: transparent;
+  color: #5d96cf;
+  font-family: 'Roboto';
+  font-weight: bold;
+  border: none;
+}
+
+.drop-down-icon {
+  font-size: 20px;
+  margin-top: 10px;
+  align-self: center;
+}
+
+.button-view {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-family: 'Roboto';
+  background-color: transparent;
+  color: #5d96cf;
+  font-family: 'Roboto';
+  font-weight: bold;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.drop-down-icon-right {
+  font-size: 20px;
+}
+
+.logo {
+  color: orange;
+  font-size: 15px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
